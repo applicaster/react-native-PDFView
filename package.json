@@ -1,6 +1,6 @@
 {
   "name": "@applicaster/react-native-view-pdf",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "React native Pdf viewer implementation",
   "main": "src/index.js",
   "scripts": {
@@ -51,6 +51,7 @@
     "lib/index.js",
     "lib/RNPDFView.js",
     "android/build.gradle",
+    "android/proguard-rules.pro",
     "android/src/main/AndroidManifest.xml",
     "android/src/main/java/com/rumax/reactnative/pdfviewer/*.java",
     "RNPDF.podspec",
